@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\opilane\\source\\repos\\TARge24\\NewProjectTARge24\\MyFirstlittleEpicBitcoinCalculator\\BitcoinTARge24\\WindowsBitcoinCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4BEF41-E30A-4F41-9637-6C2D62EA9B9F}|WindowsBitcoinCalculator.csproj|c:\\users\\opilane\\source\\repos\\targe24\\newprojecttarge24\\myfirstlittleepicbitcoincalculator\\bitcointarge24\\windowsbitcoincalculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F4BEF41-E30A-4F41-9637-6C2D62EA9B9F}|WindowsBitcoinCalculator.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4BEF41-E30A-4F41-9637-6C2D62EA9B9F}|WindowsBitcoinCalculator.csproj|c:\\users\\opilane\\source\\repos\\targe24\\newprojecttarge24\\myfirstlittleepicbitcoincalculator\\bitcointarge24\\windowsbitcoincalculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F4BEF41-E30A-4F41-9637-6C2D62EA9B9F}|WindowsBitcoinCalculator.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4BEF41-E30A-4F41-9637-6C2D62EA9B9F}|WindowsBitcoinCalculator.csproj|c:\\users\\opilane\\source\\repos\\targe24\\newprojecttarge24\\myfirstlittleepicbitcoincalculator\\bitcointarge24\\windowsbitcoincalculator\\bitcoinrates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F4BEF41-E30A-4F41-9637-6C2D62EA9B9F}|WindowsBitcoinCalculator.csproj|solutionrelative:bitcoinrates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 195,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\TARge24\\NewProjectTARge24\\MyFirstlittleEpicBitcoinCalculator\\BitcoinTARge24\\WindowsBitcoinCalculator\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\TARge24\\NewProjectTARge24\\MyFirstlittleEpicBitcoinCalculator\\BitcoinTARge24\\WindowsBitcoinCalculator\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAArwBEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T15:00:03.641Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BitcoinRates.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\TARge24\\NewProjectTARge24\\MyFirstlittleEpicBitcoinCalculator\\BitcoinTARge24\\WindowsBitcoinCalculator\\BitcoinRates.cs",
+              "RelativeDocumentMoniker": "BitcoinRates.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\TARge24\\NewProjectTARge24\\MyFirstlittleEpicBitcoinCalculator\\BitcoinTARge24\\WindowsBitcoinCalculator\\BitcoinRates.cs",
+              "RelativeToolTip": "BitcoinRates.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T15:13:30.24Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\TARge24\\NewProjectTARge24\\MyFirstlittleEpicBitcoinCalculator\\BitcoinTARge24\\WindowsBitcoinCalculator\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\TARge24\\NewProjectTARge24\\MyFirstlittleEpicBitcoinCalculator\\BitcoinTARge24\\WindowsBitcoinCalculator\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T14:54:59.307Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

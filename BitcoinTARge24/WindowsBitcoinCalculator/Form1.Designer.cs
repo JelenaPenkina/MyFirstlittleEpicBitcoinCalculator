@@ -28,27 +28,27 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.comboBox1 = new System.Windows.Forms.ComboBox();
+            this.ValiValuuta = new System.Windows.Forms.ComboBox();
             this.button1 = new System.Windows.Forms.Button();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.box2 = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
-            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.tulemus = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
-            // comboBox1
+            // ValiValuuta
             // 
-            this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Items.AddRange(new object[] {
+            this.ValiValuuta.FormattingEnabled = true;
+            this.ValiValuuta.Items.AddRange(new object[] {
             "EUR",
-            "USD",
+            "GBP",
             "EEK"});
-            this.comboBox1.Location = new System.Drawing.Point(667, 116);
-            this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(121, 21);
-            this.comboBox1.TabIndex = 0;
-            this.comboBox1.Text = "Vali valuuta";
-            this.comboBox1.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
+            this.ValiValuuta.Location = new System.Drawing.Point(667, 116);
+            this.ValiValuuta.Name = "ValiValuuta";
+            this.ValiValuuta.Size = new System.Drawing.Size(121, 21);
+            this.ValiValuuta.TabIndex = 0;
+            this.ValiValuuta.Text = "Vali valuuta";
+            this.ValiValuuta.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
             // 
             // button1
             // 
@@ -60,13 +60,13 @@
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
-            // textBox1
+            // box2
             // 
-            this.textBox1.Location = new System.Drawing.Point(667, 76);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(121, 20);
-            this.textBox1.TabIndex = 2;
-            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
+            this.box2.Location = new System.Drawing.Point(667, 76);
+            this.box2.Name = "box2";
+            this.box2.Size = new System.Drawing.Size(121, 20);
+            this.box2.TabIndex = 2;
+            this.box2.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // label1
             // 
@@ -89,17 +89,17 @@
             this.label2.TabIndex = 4;
             this.label2.Text = "Tulemus";
             // 
-            // textBox2
+            // tulemus
             // 
-            this.textBox2.BackColor = System.Drawing.SystemColors.Menu;
-            this.textBox2.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 32F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(186)));
-            this.textBox2.Location = new System.Drawing.Point(667, 244);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(121, 49);
-            this.textBox2.TabIndex = 5;
-            this.textBox2.Text = "None";
-            this.textBox2.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
+            this.tulemus.BackColor = System.Drawing.SystemColors.Menu;
+            this.tulemus.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.tulemus.Font = new System.Drawing.Font("Microsoft Sans Serif", 32F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(186)));
+            this.tulemus.Location = new System.Drawing.Point(667, 244);
+            this.tulemus.Name = "tulemus";
+            this.tulemus.Size = new System.Drawing.Size(121, 49);
+            this.tulemus.TabIndex = 5;
+            this.tulemus.Text = "None";
+            this.tulemus.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
             // 
             // Form1
             // 
@@ -108,12 +108,12 @@
             this.BackgroundImage = global::WindowsBitcoinCalculator.Properties.Resources.Hõiva;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.textBox2);
+            this.Controls.Add(this.tulemus);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.box2);
             this.Controls.Add(this.button1);
-            this.Controls.Add(this.comboBox1);
+            this.Controls.Add(this.ValiValuuta);
             this.DoubleBuffered = true;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
             this.Name = "Form1";
@@ -125,12 +125,12 @@
 
         #endregion
 
-        private System.Windows.Forms.ComboBox comboBox1;
+        private System.Windows.Forms.ComboBox ValiValuuta;
         private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox box2;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.TextBox tulemus;
     }
 }
 

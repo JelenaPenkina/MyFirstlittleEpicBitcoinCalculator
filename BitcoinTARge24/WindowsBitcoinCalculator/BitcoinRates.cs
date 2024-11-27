@@ -8,6 +8,7 @@ namespace WindowsBitcoinCalculator
 {
     public class BitcoinRates
     {
+        public  Bpi bpi { get; set; }
     }
     public class Bpi
     {
